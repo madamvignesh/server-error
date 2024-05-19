@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.main-conatiner {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.light-card {
+  border: 3px black;
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.light-head {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+
+.btn {
+  color: black;
+  background-color: white;
+  border: 3px black;
+  border-radius: 4px;
+}
+
+.dark-container {
+  border: 3px white;
+  background-color: black;
+  text-align: center;
+}
+.dark-head {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 32px;
+}
